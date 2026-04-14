@@ -16,7 +16,7 @@ This repository contains a simple, elegant webpage designed with a warm aestheti
 ## 🚀 Live Demo
 
 You can view the live website here: 
-**[Insert your GitHub Pages link here]** *(e.g., https://yourusername.github.io/noboborsho-trayee/)*
+**https://lucifer1112.github.io/hny-tryee/**
 
 ## 🛠️ Built With
 
